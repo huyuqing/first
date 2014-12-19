@@ -1,0 +1,6 @@
+[submodule "second"]
+	path = second
+	url = https://github.com/huyuqing/first
+[submodule "hu"]
+	path = hu
+	url = https://github.com/huyuqing/first
